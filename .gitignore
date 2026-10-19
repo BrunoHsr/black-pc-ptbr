@@ -1,0 +1,20 @@
+# Nada do jogo entra no repositorio
+orig/
+work/
+test/
+port-src/
+traducao/en.json
+*.xmv
+*.bin
+*.bks
+*.ssh
+*.xbe
+*.wav
+*.png
+*.raw
+*.avi
+*.ass
+*.ttf
+# Python
+__pycache__/
+*.pyc
